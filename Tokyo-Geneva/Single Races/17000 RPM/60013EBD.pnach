@@ -1,0 +1,4 @@
+//max rpm 17000 single race
+patch=1,EE,21FBAF48,extended,00004268
+//redline rpm 17000 single race
+patch=1,EE,21FBAFAA,extended,00004268

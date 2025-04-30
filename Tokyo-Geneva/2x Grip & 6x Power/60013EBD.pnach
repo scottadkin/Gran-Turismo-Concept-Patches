@@ -1,0 +1,5 @@
+//double grip
+patch=1,EE,20333F9C,extended,3B03126E
+
+//6x power
+patch=1,EE,20334034,extended,3BC49BA5
