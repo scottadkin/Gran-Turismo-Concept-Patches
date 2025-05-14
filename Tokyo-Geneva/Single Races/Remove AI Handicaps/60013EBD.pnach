@@ -1,0 +1,13 @@
+//Force AI to 100% Rubberband
+patch=1,EE,21FBD900,extended,3f800000
+patch=1,EE,21FBEFE0,extended,3f800000
+patch=1,EE,21FC06C0,extended,3f800000
+patch=1,EE,21FC1DA0,extended,3f800000
+patch=1,EE,21FC3480,extended,3f800000
+
+//set ai max throttle to 100%
+patch=1,EE,21FBD394,extended,3f800000
+patch=1,EE,21FBEA74,extended,3f800000
+patch=1,EE,21FC0154,extended,3f800000
+patch=1,EE,21FC1834,extended,3f800000
+patch=1,EE,21FC2F14,extended,3f800000
